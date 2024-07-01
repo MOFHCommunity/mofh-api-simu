@@ -1,0 +1,26 @@
+{
+    "passwd": [
+        {
+            "statusmsg": "Password changed for user username.",
+            "services": [
+                {
+                    "app": "system"
+                },
+                {
+                    "app": "ftp"
+                },
+                {
+                    "app": "mail"
+                },
+                {
+                    "app": "MySQL"
+                },
+                {
+                    "app": "webdisk (digest)"
+                }
+            ],
+            "rawout": "Password changed",
+            "status": 1
+        }
+    ]
+}

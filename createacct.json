@@ -1,0 +1,27 @@
+    {
+        "result": [
+            {
+                "options": {
+                    "vpusername": "hname_12345678",
+                    "nameserverentry3": null,
+                    "nameservera": null,
+                    "nameserver4": "ns4.byet.org",
+                    "ip": "n",
+                    "nameservera4": null,
+                    "nameserver": "ns1.byet.org",
+                    "package": "package_name",
+                    "nameserver2": "ns2.byet.org",
+                    "nameservera2": null,
+                    "nameserverentry4": null,
+                    "nameservera3": "ns3.byet.org",
+                    "nameserverentry2": null,
+                    "nameserverentry": null,
+                    "nameserver3": "ns3.byet.org",
+                    "nameserver5": "ns5.byet.org"
+                },
+                "statusmsg": "Account Creation Ok",
+                "rawout": "Account Creation Ok",
+                "status": 1
+            }
+        ]
+    }

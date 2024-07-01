@@ -1,0 +1,9 @@
+{
+    "result": [
+        {
+            "statusmsg": "username account removed",
+            "rawout": "username queued for removal",
+            "status": 1
+        }
+    ]
+}
